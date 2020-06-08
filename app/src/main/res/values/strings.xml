@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bitprophet</string>
+    <string name="make_your_prediction">Make your prediction!</string>
+    <string name="submit">Submit</string>
+    <string name="see_high_scores">See High Scores</string>
+    <string name="notification_channel_id">tip_chanel</string>
+    <string name="notification_title">Your tip is ready!</string>
+    <string name="notification_text">Check your score!</string>
+    <string name="notification_channel_name">tip_channel</string>
+    <string name="provide_tip">Provide a tip!</string>
+    <string name="round">You are in round \ </string>
+    <string name="points">Remaining points: \ </string>
+    <string name="your_tip_ready">Your tip will be ready at \</string>
+    <string name="high_round">Your longest run: \</string>
+    <string name="rounds">\ rounds</string>
+    <string name="your_tip">Your tip</string>
+</resources>
